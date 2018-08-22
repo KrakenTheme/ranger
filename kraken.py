@@ -11,7 +11,7 @@ from ranger.gui.color import (
 )
 
 
-class Dracula(ColorScheme):
+class Kraken(ColorScheme):
     progress_bar_color = 4
 
     def use(self, context):  # pylint: disable=too-many-branches,too-many-statements
